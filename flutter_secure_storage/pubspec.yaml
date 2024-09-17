@@ -49,5 +49,5 @@ platforms:
   ios:
   linux:
   macos:
-  web:
+  # web:
   windows:
